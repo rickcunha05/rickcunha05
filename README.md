@@ -42,6 +42,7 @@ Here are some ideas to get you started:
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>   
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>               
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>     
+    <a href="https://tailwindcss.com/docs/installation" target="_blank"> <img src="https://img.icons8.com/fluency/48/null/tailwind_css.png"/></a>     
     
   
 </p>
