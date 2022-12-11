@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 ## 🙋‍♂️ About Me
+- 😊 My first repository on github, unfortunately I lost access to the email **[My First Repository](https://github.com/rick0305?tab=repositories)**
 
 - 🔭 I’m currently working on **[E-libras](https://e-libras.netlify.app/)**
 
