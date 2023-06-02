@@ -14,23 +14,20 @@ Here are some ideas to get you started:
 -->
 <!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<img src="https://negocieapp.com.br/wp-content/uploads/2020/05/13_cHJvZ3JhbW1lcg-Converted.jpg" align="center" width="900" >
+<div> <img  align="right" src="https://negocieapp.com.br/wp-content/uploads/2020/05/13_cHJvZ3JhbW1lcg-Converted.jpg" align="center" width="400" > </div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Henrique</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Brazilian.</h3>
-
+<div align="left">     
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Henrique</h1>
+<h3 align="left">I'm a Javascript specialist full Stack developer from Brazilian.</h3>
+</div>
+</br>
+</br>
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[E-libras](https://e-libras.netlify.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I'm on my way to becoming a **Javascript Specialist**
-
-- 📫 How to reach me **henrique.cunha5@outlook.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 🚀 Languages and Libs:
 
