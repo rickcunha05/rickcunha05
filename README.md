@@ -53,6 +53,9 @@ Here are some ideas to get you started:
 
 ## ⚙️ Tools:
  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> </a> 
+  <img width="48" height="48" src="https://img.icons8.com/color/48/github--v1.png" alt="github--v1"/>
+   <img width="48" height="48" src="https://avatars.githubusercontent.com/u/17177659?s=280&v=4"/>
 
 ## 📊 My Github Stats
 
