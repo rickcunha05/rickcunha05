@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 <!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<div> <img  align="right" src="https://negocieapp.com.br/wp-content/uploads/2020/05/13_cHJvZ3JhbW1lcg-Converted.jpg" align="center" width="400" > </div>
-
 <div align="left">     
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Henrique</h1>
 <h3 align="left">I'm a Javascript specialist full Stack developer from Brazilian.</h3>
