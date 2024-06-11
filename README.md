@@ -1,6 +1,6 @@
 
 
-## 📊 My Github Stats
+## 📊 My Githhub
 
   <br/>
   <p>
