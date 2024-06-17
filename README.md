@@ -1,6 +1,6 @@
 
 
-## 📊 My Githhub Status
+## 📊 My Githhuh
 
   <br/>
   <p>
