@@ -1,6 +1,6 @@
 
 
-## 📊 My Github Status
+## 📊 My Github
 
   <br/>
   <p>
